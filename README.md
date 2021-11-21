@@ -2,7 +2,7 @@
 #### I am Cloud & Software engineer
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and sharing my skills with others. Some technologies I enjoy working with include Java|Python, Angular, Spring and Cloud Computing and Machine Learning. My interest are learning languages, frameworks and do research in computer science...
 
-Skills: Java / Python / CSS / HTML / JavaScript /Angular / Spring / Spring boot / JUnit / DevOps Tools / Cloud Computing / Machine Learning 
+Skills: Java / Python / CSS / HTML / JavaScript /Angular / Spring / Spring boot / JUnit / DevOps Tools / Cloud Computing / Machine Learning...
 
 - 🔭 I’m currently working on this page. 
 
